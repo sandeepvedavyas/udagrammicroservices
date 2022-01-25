@@ -15,7 +15,7 @@ spec:
         run: reverseproxy
     spec:
       containers:
-        - image: sandeepvedavyas/reverseproxy:v3
+        - image: sandeepvedavyas/reverseproxy:v10
           name: reverseproxy
           imagePullPolicy: Always
           resources:

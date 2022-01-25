@@ -15,7 +15,7 @@ spec:
         run: backend-feed
     spec:
       containers:
-      - image: sandeepvedavyas/udagram-api-feed:v3
+      - image: sandeepvedavyas/udagram-api-feed:v10
         name: backend-feed
         imagePullPolicy: Always  
         resources:
