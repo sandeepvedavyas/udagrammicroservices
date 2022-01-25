@@ -3,7 +3,7 @@ kind: ConfigMap
 data:
   AWS_BUCKET: my-testprofile-nanodegree-bucket
   AWS_PROFILE: default
-  AWS_REGION: us-east-1
+  AWS_REGION: eu-central-1
   JWT_SECRET: testing
   POSTGRESS_DB: microservicesdb2
   POSTGRESS_HOST: microservicesdb2.carfh1xvan45.eu-central-1.rds.amazonaws.com
