@@ -12,11 +12,11 @@ spec:
   template:
     metadata:
       labels:
-        run: frontend
+        run: frontend 
         api: external
     spec:
       containers:
-        - image: sandeepvedavyas/udagram-frontend:v10
+        - image: sandeepvedavyas/udagram-frontend:v17
           name: frontend
           imagePullPolicy: Always
           ports:

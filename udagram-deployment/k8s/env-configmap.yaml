@@ -7,6 +7,6 @@ data:
   JWT_SECRET: testing
   POSTGRESS_DB: microservicesdb2
   POSTGRESS_HOST: microservicesdb2.carfh1xvan45.eu-central-1.rds.amazonaws.com
-  URL: http://localhost:8100  
+  URL: http://a0f23fb6b9cde42f4a03240cca115a14-1882470011.us-east-1.elb.amazonaws.com:8100  
 metadata:
   name: env-config
